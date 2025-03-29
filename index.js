@@ -6,7 +6,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || 8080; // Changed from 3000 to 8080 for Cloud Run
+const PORT = 8080; // Changed from 3000 to 8080 for Cloud Run
 
 // Modified CORS configuration for Cloud Run
 const corsOptions = {
