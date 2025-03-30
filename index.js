@@ -2,6 +2,9 @@ import express from 'express';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import dotenv from 'dotenv';
+import pkg from 'node-mailjet';
+
+
 
 dotenv.config();
 
@@ -11,8 +14,8 @@ const PORT = 8080; // Changed from 3000 to 8080 for Cloud Run
 // Modified CORS configuration for Cloud Run
 const corsOptions = {
     origin: '*', // Allow all origins in production
-    methods: ['POST'],
-    allowedHeaders: ['Content-Type'],
+    methods: ['GET', 'POST', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
 };
 
@@ -24,7 +27,7 @@ const mailjet = pkg.apiConnect(
     process.env.MJ_APIKEY_PRIVATE
 );
 
-app.post('/api/send-email', async (req, res) => {
+app.post('/api/send-mail', async (req, res) => {
     try {
         const { name, email, message } = req.body;
         
@@ -61,6 +64,8 @@ app.post('/api/send-email', async (req, res) => {
         });
     }
 });
+
+app.options('*', cors(corsOptions));
 
 // Listen on all interfaces (0.0.0.0) for Cloud Run
 app.listen(PORT, '0.0.0.0', () => {
