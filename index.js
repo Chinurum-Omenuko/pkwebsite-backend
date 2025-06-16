@@ -42,7 +42,7 @@ app.post('/api/send-mail', async (req, res) => {
             .request({
                 "Messages": [{
                     "From": {
-                        "Email": process.env.SENDER_EMAIL,
+                        "Email": email,
                         "Name": name
                     },
                     "To": [{
