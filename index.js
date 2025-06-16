@@ -36,7 +36,6 @@ const mailjet = pkg.apiConnect(
 app.post('/api/send-mail', async (req, res) => {
     try {
         const { name, email, message } = req.body;
-        
         const response = await mailjet
             .post("send", {'version': 'v3.1'})
             .request({
