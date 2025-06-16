@@ -33,6 +33,7 @@ const mailjet = pkg.apiConnect(
     process.env.MJ_APIKEY_PRIVATE
 );
 
+
 app.post('/api/send-mail', async (req, res) => {
     try {
         const { name, email, message } = req.body;
