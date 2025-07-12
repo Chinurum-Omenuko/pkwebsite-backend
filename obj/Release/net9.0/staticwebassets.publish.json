@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "m/riq9DnBsGyBUqVVsUBzeJMfiDTqKBTLI+x9yapM1c=",
+  "Source": "pkbackend",
+  "BasePath": "_content/pkbackend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

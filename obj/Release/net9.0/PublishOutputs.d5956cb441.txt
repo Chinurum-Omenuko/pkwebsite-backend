@@ -1,0 +1,14 @@
+/Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend
+/Users/chinurum/Desktop/tech/pkbackend/publish/appsettings.Development.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/appsettings.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend.dll
+/Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend.deps.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend.runtimeconfig.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend.pdb
+/Users/chinurum/Desktop/tech/pkbackend/publish/Mailjet.Client.dll
+/Users/chinurum/Desktop/tech/pkbackend/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/chinurum/Desktop/tech/pkbackend/publish/Microsoft.OpenApi.dll
+/Users/chinurum/Desktop/tech/pkbackend/publish/Newtonsoft.Json.dll
+/Users/chinurum/Desktop/tech/pkbackend/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chinurum/Desktop/tech/pkbackend/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chinurum/Desktop/tech/pkbackend/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
