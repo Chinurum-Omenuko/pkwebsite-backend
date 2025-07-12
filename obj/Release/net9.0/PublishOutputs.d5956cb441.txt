@@ -1,4 +1,5 @@
 /Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend
+/Users/chinurum/Desktop/tech/pkbackend/publish/publish/publish/web.config
 /Users/chinurum/Desktop/tech/pkbackend/publish/publish/web.config
 /Users/chinurum/Desktop/tech/pkbackend/publish/appsettings.Development.json
 /Users/chinurum/Desktop/tech/pkbackend/publish/appsettings.json
@@ -7,6 +8,11 @@
 /Users/chinurum/Desktop/tech/pkbackend/publish/publish/pkbackend.deps.json
 /Users/chinurum/Desktop/tech/pkbackend/publish/publish/pkbackend.runtimeconfig.json
 /Users/chinurum/Desktop/tech/pkbackend/publish/publish/pkbackend.staticwebassets.endpoints.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/publish/publish/appsettings.Development.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/publish/publish/appsettings.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/publish/publish/pkbackend.deps.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/publish/publish/pkbackend.runtimeconfig.json
+/Users/chinurum/Desktop/tech/pkbackend/publish/publish/publish/pkbackend.staticwebassets.endpoints.json
 /Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend.dll
 /Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend.deps.json
 /Users/chinurum/Desktop/tech/pkbackend/publish/pkbackend.runtimeconfig.json
