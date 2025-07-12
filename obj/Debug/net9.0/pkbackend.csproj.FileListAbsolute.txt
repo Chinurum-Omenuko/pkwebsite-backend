@@ -1,7 +1,5 @@
 /Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/appsettings.Development.json
 /Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/appsettings.json
-/Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/package-lock.json
-/Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/package.json
 /Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/pkbackend.staticwebassets.endpoints.json
 /Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/pkbackend
 /Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/pkbackend.deps.json
