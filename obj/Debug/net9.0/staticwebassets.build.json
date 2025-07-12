@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "79d/qXRUgMw/CsuxMhAeMj+xycOOJi0bFDayT7D/DsA=",
+  "Source": "pkbackend",
+  "BasePath": "_content/pkbackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
