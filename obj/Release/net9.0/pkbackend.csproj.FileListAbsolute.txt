@@ -37,3 +37,9 @@
 /Users/chinurum/Desktop/tech/pkbackend/obj/Release/net9.0/pkbackend.pdb
 /Users/chinurum/Desktop/tech/pkbackend/obj/Release/net9.0/pkbackend.genruntimeconfig.cache
 /Users/chinurum/Desktop/tech/pkbackend/obj/Release/net9.0/ref/pkbackend.dll
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/web.config
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/appsettings.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/pkbackend.deps.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/pkbackend.runtimeconfig.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/pkbackend.staticwebassets.endpoints.json
