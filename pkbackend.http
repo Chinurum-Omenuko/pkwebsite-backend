@@ -1,0 +1,6 @@
+@pkbackend_HostAddress = http://localhost:5011
+
+GET {{pkbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
