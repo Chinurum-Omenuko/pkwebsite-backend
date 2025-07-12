@@ -41,7 +41,7 @@ app.MapControllers();
 
 app.MapGet("/", () =>
 {
-    return Results.Ok("Hello");
+    return Results.Ok("Hello Joy, this is our backend!");
 });
 
 app.Run();
