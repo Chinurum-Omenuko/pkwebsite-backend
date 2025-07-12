@@ -19,6 +19,11 @@ builder.Services.AddSingleton<MailjetClient>(cl => new MailjetClient(
         config["Mailjet:ApiKeyPrivate"]
     ));
 builder.Services.AddScoped<IMailService, MailJetService>();
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(8080); // Listen on port 8080 on all interfaces
+});
+
 
 var app = builder.Build();
 
