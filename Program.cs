@@ -24,9 +24,20 @@ builder.WebHost.ConfigureKestrel(options =>
     options.ListenAnyIP(8080); // Listen on port 8080 on all interfaces
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend",
+        policy => policy
+            .WithOrigins("*")
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+    );
+});
+
+
 
 var app = builder.Build();
-
+app.UseCors("AllowFrontend");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
