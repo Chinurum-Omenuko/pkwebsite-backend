@@ -49,3 +49,9 @@
 /Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/pkbackend.deps.json
 /Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/pkbackend.runtimeconfig.json
 /Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/pkbackend.staticwebassets.endpoints.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/publish/web.config
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/publish/appsettings.Development.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/publish/appsettings.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/publish/pkbackend.deps.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/publish/pkbackend.runtimeconfig.json
+/Users/chinurum/Desktop/tech/pkbackend/bin/Release/net9.0/publish/publish/publish/pkbackend.staticwebassets.endpoints.json

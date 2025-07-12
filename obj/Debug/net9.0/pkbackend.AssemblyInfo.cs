@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pkbackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+829746e556c3aa932bed33151e72c4e0d67639c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db21f95ae7450774804a056c92e0294319c3af60")]
 [assembly: System.Reflection.AssemblyProductAttribute("pkbackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pkbackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
