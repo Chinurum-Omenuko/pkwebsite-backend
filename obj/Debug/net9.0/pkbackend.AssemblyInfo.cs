@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1b985da8-4fdb-42f9-9436-81c2313be09a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("pkbackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c33cc792bce235734705b09052055dcc77885a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363e30348e8cb5a1b2b8bb397cc716a4232e4ae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("pkbackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pkbackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

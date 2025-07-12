@@ -34,3 +34,8 @@
 /Users/chinurum/Desktop/tech/pkbackend/obj/Debug/net9.0/pkbackend.pdb
 /Users/chinurum/Desktop/tech/pkbackend/obj/Debug/net9.0/pkbackend.genruntimeconfig.cache
 /Users/chinurum/Desktop/tech/pkbackend/obj/Debug/net9.0/ref/pkbackend.dll
+/Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/Mailjet.Client.dll
+/Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chinurum/Desktop/tech/pkbackend/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll

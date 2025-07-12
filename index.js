@@ -57,7 +57,7 @@ app.get('/', async (req, res) => {
 
 app.post('/api/send-mail', async (req, res) => {
     try {
-        const { firstName, lastName, email, phoneNumber, message } = req.body;
+        const { firstName, lastName, email, message } = req.body;
         const response = await mailjet
             .post("send", {'version': 'v3.1'})
             .request({
